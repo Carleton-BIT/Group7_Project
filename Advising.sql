@@ -8,5 +8,4 @@ CREATE TABLE academic_services (
     contact_email VARCHAR(100),
     location VARCHAR(100),
     operating_hours VARCHAR(100),
-    link VARCHAR(100)
 );
